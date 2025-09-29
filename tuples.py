@@ -27,4 +27,4 @@ print("Proyecto" in asignaturas) # False
 # Unir tuplas
 asignaturas2 = ("Proyecto", "IPE2")
 asignaturas = asignaturas + asignaturas2
-print(asignaturas) 
+print(asignaturas)
